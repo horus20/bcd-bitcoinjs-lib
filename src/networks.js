@@ -35,8 +35,7 @@ module.exports = {
     wif: 0xb0
   },
   bitcoindiamond: {
-    messagePrefix: '\x18Bitcoin Signed Message:\n',
-    bech32: 'bc',
+    messagePrefix: '\x18BitcoinDiamond Signed Message:\n',
     bip32: {
       public: 0x0488b21e,
       private: 0x0488ade4
