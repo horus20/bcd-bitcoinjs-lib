@@ -1,7 +1,7 @@
 {
-  "name": "bitcoinjs-lib",
+  "name": "bcd-bitcoinjs-lib",
   "version": "3.3.2",
-  "description": "Client-side Bitcoin JavaScript library",
+  "description": "Client-side Bitcoin Diamond JavaScript library",
   "main": "./src/index.js",
   "engines": {
     "node": ">=4.0.0"
